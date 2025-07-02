@@ -1,0 +1,13 @@
+﻿  app.cpp
+C:\Users\timlo\Desktop\Past_ASM\Y1S3\Data Struct\Data Struc Assignment 1\data struct1\app.cpp(683,12): warning C4101: 'GPA': unreferenced local variable
+C:\Users\timlo\Desktop\Past_ASM\Y1S3\Data Struct\Data Struc Assignment 1\data struct1\app.cpp(953,9): warning C4101: 'F2id': unreferenced local variable
+C:\Users\timlo\Desktop\Past_ASM\Y1S3\Data Struct\Data Struc Assignment 1\data struct1\app.cpp(1062,11): warning C4101: 'current': unreferenced local variable
+  backup.cpp
+  Exam.cpp
+  List.cpp
+  Node.cpp
+  Student.cpp
+  Subject.cpp
+  Generating Code...
+C:\Users\timlo\Desktop\Past_ASM\Y1S3\Data Struct\Data Struc Assignment 1\data struct1\app.cpp(646,1): warning C4715: 'PrintList': not all control paths return a value
+  data struct1.vcxproj -> C:\Users\timlo\Desktop\Past_ASM\Y1S3\Data Struct\Data Struc Assignment 1\x64\Debug\data struct1.exe

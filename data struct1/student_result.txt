@@ -1,0 +1,349 @@
+******************************************************STUDENT 1******************************************************
+
+
+Name:  Anne Hathaway
+Id: 1403890
+Course: IA
+Phone No: 432-7890
+Current CGPA: 0
+Total Credits Earned: 0
+
+<STUDENT HAVEN'T TAKEN ANY EXAM YET>
+
+******************************************************STUDENT 2******************************************************
+
+
+Name:  Ben Affleck
+Id: 1201237
+Course: IA
+Phone No: 432-4579
+Current CGPA: 3.92667
+Total Credits Earned: 36
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+May 2012 Exam Results : 
+2 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+UCCD1024        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                        4            A       4.00
+UCCD2502        INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING         8            A-      3.67
+GPA: 3.78000
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Oct 2022 Exam Results : 
+2 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+QRST7890        WEB_TECHNOLOGIES                                                       8            A+      4.00
+UVWX1212        SYSTEM_ANALYSIS_AND_DESIGN                                             4            A+      4.00
+GPA: 4.00000
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Jan 2023 Exam Results : 
+3 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+ABCD1234        PROGRAMMING_CONCEPTS_AND_DESIGN                                        5            A       4.00
+EFGH5678        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                        4            A       4.00
+IJKL9012        INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING         3            A+      4.00
+GPA: 4.00000
+
+
+******************************************************STUDENT 3******************************************************
+
+
+Name:  Chris Evans
+Id: 2301567
+Course: CN
+Phone No: 437-2233
+Current CGPA: 0.00000
+Total Credits Earned: 0
+
+<STUDENT HAVEN'T TAKEN ANY EXAM YET>
+
+******************************************************STUDENT 4******************************************************
+
+
+Name:  Emma Watson
+Id: 1204567
+Course: CS
+Phone No: 790-1123
+Current CGPA: 3.98263
+Total Credits Earned: 57
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+May 2022 Exam Results : 
+1 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+QRST7890        WEB_TECHNOLOGIES                                                       3            A-      3.67
+GPA: 3.67000
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Jan 2023 Exam Results : 
+2 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+UVWX1212        SYSTEM_ANALYSIS_AND_DESIGN                                             4            A       4.00
+ABCD1234        PROGRAMMING_CONCEPTS_AND_DESIGN                                        4            A       4.00
+GPA: 4.00000
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Jan 2021 Exam Results : 
+4 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+ABCD1001        ADVANCED_PROGRAMMING                                                   4            A       4.00
+EFGH2002        DATA_ANALYSIS                                                          4            A       4.00
+IJKL3003        OPERATING_SYSTEM_CONCEPTS                                              4            A+      4.00
+UVWX4004        NETWORK_SECURITY                                                       4            A       4.00
+GPA: 4.00000
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Oct 2022 Exam Results : 
+3 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+MNOP1005        ARTIFICIAL_INTELLIGENCE                                                4            A       4.00
+QRST2006        MACHINE_LEARNING                                                       5            A+      4.00
+YZAB3007        CLOUD_COMPUTING                                                        4            A       4.00
+GPA: 4.00000
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+May 2023 Exam Results : 
+4 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+CDEF1008        MOBILE_APP_DEVELOPMENT                                                 4            A       4.00
+GHIJ2009        GAME_DEVELOPMENT                                                       4            A       4.00
+KLMN3010        CYBERSECURITY                                                          5            A+      4.00
+OPQR4011        BLOCKCHAIN_TECHNOLOGY                                                  4            A       4.00
+GPA: 4.00000
+
+
+******************************************************STUDENT 5******************************************************
+
+
+Name:  Jhonny Lau
+Id: 2301464
+Course: CN
+Phone No: 437-1094
+Current CGPA: 0.00000
+Total Credits Earned: 0
+
+<STUDENT HAVEN'T TAKEN ANY EXAM YET>
+
+******************************************************STUDENT 6******************************************************
+
+
+Name:  Leonardo DiCaprio
+Id: 1404678
+Course: IB
+Phone No: 790-4567
+Current CGPA: 0.00000
+Total Credits Earned: 0
+
+<STUDENT HAVEN'T TAKEN ANY EXAM YET>
+
+******************************************************STUDENT 7******************************************************
+
+
+Name:  Matt Damon
+Id: 1200233
+Course: CS
+Phone No: 790-3233
+Current CGPA: 3.89816
+Total Credits Earned: 49
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Jan 2013 Exam Results : 
+4 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+MNOP3456        DATABASE_MANAGEMENT                                                    3            A       4.00
+QRST7890        WEB_TECHNOLOGIES                                                       3            A       4.00
+UVWX1212        SYSTEM_ANALYSIS_AND_DESIGN                                             4            A       4.00
+ABCD1234        PROGRAMMING_CONCEPTS_AND_DESIGN                                        4            A+      4.00
+GPA: 4.00000
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+May 2013 Exam Results : 
+3 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+UCCD1004        PROGRAMMING_CONCEPTS_AND_DESIGN                                        4            A+      4.00
+UCCD1024        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                        4            A       4.00
+UCCD2502        INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING         4            A       4.00
+GPA: 4.00000
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Oct 2013 Exam Results : 
+3 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+UCCD1004        PROGRAMMING_CONCEPTS_AND_DESIGN                                        4            B+      3.33
+UCCD1024        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                        4            A       4.00
+UCCD2502        INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING         3            A-      3.67
+GPA: 3.66636
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+May 2014 Exam Results : 
+3 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+UCCD1004        PROGRAMMING_CONCEPTS_AND_DESIGN                                        4            A-      3.67
+UCCD1024        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                        4            A       4.00
+UCCD2502        INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING         4            A       4.00
+GPA: 3.89000
+
+
+******************************************************STUDENT 8******************************************************
+
+
+Name:  Robert Downey
+Id: 1206789
+Course: IA
+Phone No: 432-7788
+Current CGPA: 3.33000
+Total Credits Earned: 3
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Jan 2022 Exam Results : 
+1 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+MNOP3456        DATABASE_MANAGEMENT                                                    3            B+      3.33
+GPA: 3.33000
+
+
+******************************************************STUDENT 9******************************************************
+
+
+Name:  Salma Hayek
+Id: 1300899
+Course: IB
+Phone No: 790-0000
+Current CGPA: 3.66500
+Total Credits Earned: 8
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Oct 2012 Exam Results : 
+2 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+UCCD1004        PROGRAMMING_CONCEPTS_AND_DESIGN                                        4            B+      3.33
+UCCD1024        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                        4            A       4.00
+GPA: 3.66500
+
+
+******************************************************STUDENT 10******************************************************
+
+
+Name:  Scarlett Johansson
+Id: 1300456
+Course: IB
+Phone No: 790-9988
+Current CGPA: 0.00000
+Total Credits Earned: 0
+
+<STUDENT HAVEN'T TAKEN ANY EXAM YET>
+
+******************************************************STUDENT 11******************************************************
+
+
+Name:  Tan Ah Beng
+Id: 2301094
+Course: CT
+Phone No: 440-1234
+Current CGPA: 4.00000
+Total Credits Earned: 63
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Jan 2022 Exam Results : 
+5 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+EFGH5678        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                        4            A+      4.00
+CDEF5008        INTERNET_OF_THINGS                                                     4            A       4.00
+GHIJ6009        MOBILE_COMPUTING                                                       4            A       4.00
+KLMN7010        BLOCKCHAIN_NETWORKING                                                  5            A+      4.00
+OPQR8011        5G_TECHNOLOGIES                                                        4            A       4.00
+GPA: 4.00000
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Jan 2021 Exam Results : 
+4 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+ABCD5001        ADVANCED_NETWORKING                                                    4            A       4.00
+EFGH6002        NETWORK_SECURITY                                                       4            A       4.00
+IJKL7003        DISTRIBUTED_SYSTEMS                                                    4            A+      4.00
+MNOP8004        WIRELESS_COMMUNICATION                                                 4            A       4.00
+GPA: 4.00000
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+May 2022 Exam Results : 
+3 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+QRST5005        CYBER_FORENSICS                                                        5            A+      4.00
+UVWX6006        PENETRATION_TESTING                                                    4            A       4.00
+YZAB7007        CLOUD_SECURITY                                                         4            A       4.00
+GPA: 4.00000
+
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+Jan 2023 Exam Results : 
+3 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+ASTU5012        NETWORK_AUTOMATION                                                     4            A       4.00
+BCDE6013        SOFTWARE_DEFINED_NETWORKING                                            5            A+      4.00
+FGHI7014        QUANTUM_NETWORKING                                                     4            A       4.00
+GPA: 4.00000
+
+
+******************************************************STUDENT 12******************************************************
+
+
+Name:  Tom Holland
+Id: 2302789
+Course: CS
+Phone No: 790-5566
+Current CGPA: 0.00000
+Total Credits Earned: 0
+
+<STUDENT HAVEN'T TAKEN ANY EXAM YET>
+
+******************************************************STUDENT 13******************************************************
+
+
+Name:  Zendaya Coleman
+Id: 2405566
+Course: CN
+Phone No: 437-3345
+Current CGPA: 4.00000
+Total Credits Earned: 11
+--------------------------------------------------PAST EXAM RESULT:-------------------------------------------------- 
+May 2022 Exam Results : 
+3 subjects taken.
+_____________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                      Credit Hours	  Grade   Grade Point
+_____________________________________________________________________________________________________________________
+ABCD1234        PROGRAMMING_CONCEPTS_AND_DESIGN                                        4            A+      4.00
+EFGH5678        DATA_STRUCTURES_AND_ALGORITHMIC_PROBLEM_SOLVING                        4            A       4.00
+IJKL9012        INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING         3            A       4.00
+GPA: 4.00000
+
+

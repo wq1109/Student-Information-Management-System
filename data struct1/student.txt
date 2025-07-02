@@ -1,0 +1,99 @@
+Student Id = 17MNO1017
+Name = AIDEN CARTER
+Course = CS
+Phone = 1234567
+
+Student Id = 21ACD2021
+Name = ALEX ALBON
+Course = CT
+Phone = 2345678
+
+Student Id = 23JGF1234
+Name = ALI MALOU
+Course = CN
+Phone = 3456789
+
+Student Id = 47ABC2047
+Name = ALICE BELL
+Course = IA
+Phone = 4567890
+
+Student Id = 13YZG2013
+Name = AMELIA KING
+Course = IB
+Phone = 5678901
+
+Student Id = 45VWX2045
+Name = AMELIA YOUNG
+Course = CS
+Phone = 6789012
+
+Student Id = 11MNO2011
+Name = AVA CLARK
+Course = CT
+Phone = 7890123
+
+Student Id = 14ABC1014
+Name = BENJAMIN SCOTT
+Course = CN
+Phone = 8901234
+
+Student Id = 12BFD1234
+Name = CARLOZ SAINZ
+Course = IA
+Phone = 9012345
+
+Student Id = 33ABC2033
+Name = CHARLES WANG
+Course = IB
+Phone = 9123456
+
+Student Id = 09GHI2009
+Name = CHARLOTTE HARRIS
+Course = CS
+Phone = 2233445
+
+Student Id = 23HDB2345
+Name = DANIEL RICCIARDO
+Course = CT
+Phone = 3344556
+
+Student Id = 36GHF2864
+Name = LIANG TIM LOK
+Course = CN
+Phone = 4455667
+
+Student Id = 23HGF8945
+Name = WONG WEI QI
+Course = IA
+Phone = 5566778
+
+Student Id = 85HFG1234
+Name = LIN GUO YI
+Course = IB
+Phone = 6677889
+
+Student Id = 12YHG7835
+Name = KIMI RAIKONEN
+Course = CS
+Phone = 7788990
+
+Student Id = 78HFB1234
+Name = KEVIN DURANT
+Course = CT
+Phone = 8899001
+
+Student Id = 75HGB8922
+Name = GABRIEL HAMES
+Course = CN
+Phone = 9900112
+
+Student Id = 78GBF1230
+Name = LOGAN SERGEANT
+Course = IA
+Phone = 1122334
+
+Student Id = 91HFF3291
+Name = SEBASTIAN VETTEL
+Course = IB
+Phone = 2233445
